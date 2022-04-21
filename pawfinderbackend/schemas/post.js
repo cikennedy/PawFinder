@@ -1,7 +1,7 @@
 export default {
     name: 'post',
     type: 'document',
-    title: 'Missing Pet Post',
+    title: 'Post',
     fields: [
         {
             name: 'postedAt',
